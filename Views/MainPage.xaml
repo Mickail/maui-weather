@@ -22,7 +22,7 @@
                 Text="This page will show current location and Weather conditions."
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+                SemanticProperties.Description="Work in progress description" />
 
             <Button
                 x:Name="CitiesList"
