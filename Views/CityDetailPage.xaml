@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="maui_weather.Views.CityDetailPage"
+             Title="City Details">
+    <VerticalStackLayout Padding="20">
+        <Label Text="{Binding City.name}" FontSize="24" FontAttributes="Bold" />
+        <Label Text="{Binding City.country}" FontSize="18" />
+        <Label Text="{Binding City.coord.lat, StringFormat='Latitude: {0:F2}'}" />
+        <Label Text="{Binding City.coord.lon, StringFormat='Longitude: {0:F2}'}" />
+    </VerticalStackLayout>
+</ContentPage>

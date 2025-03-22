@@ -17,5 +17,10 @@
         ContentTemplate="{DataTemplate local:CityListPage}"
         Route="city-list-page" />
 
+    <ShellContent 
+        Route="city-detail-page"
+        ContentTemplate="{DataTemplate local:CityDetailPage}" />
+
+
 
 </Shell>

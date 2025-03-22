@@ -2,7 +2,7 @@ namespace maui_weather.Models;
 
 public class CityModel
 {
-    public int id { get; set; }
+    public double id { get; set; }
     public string name { get; set; }
     public string state { get; set; }
     public string country { get; set; }

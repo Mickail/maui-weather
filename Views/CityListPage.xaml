@@ -13,7 +13,7 @@
 
             <SearchBar Placeholder="Search city..." Text="{Binding SearchText, Mode=TwoWay}" />
 
-            <ListView ItemsSource="{Binding FilteredCities}">
+            <ListView ItemsSource="{Binding FilteredCities}" ItemTapped="OnItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextCell Text="{Binding name}" Detail="{Binding country}" />
