@@ -1,15 +1,5 @@
 [
     {
-        "id": 2643741,
-        "name": "City of London",
-        "state": "",
-        "country": "GB",
-        "coord": {
-            "lon": -0.09184,
-            "lat": 51.512791
-        }
-    },
-    {
         "id": 2643743,
         "name": "London",
         "state": "",
@@ -20,33 +10,383 @@
         }
     },
     {
-        "id": 2643744,
-        "name": "City of London",
+        "id": 5128581,
+        "name": "New York City",
         "state": "",
-        "country": "GB",
+        "country": "US",
         "coord": {
-            "lon": -0.08901,
-            "lat": 51.51334
+            "lon": -74.005966,
+            "lat": 40.714272
         }
     },
     {
-        "id": 2643745,
-        "name": "Londesborough",
+        "id": 3169070,
+        "name": "Rome",
         "state": "",
-        "country": "GB",
+        "country": "IT",
         "coord": {
-            "lon": -0.68333,
-            "lat": 53.883331
+            "lon": 12.4839,
+            "lat": 41.894741
         }
     },
     {
-        "id": 2643773,
-        "name": "Loftus",
+        "id": 1850147,
+        "name": "Tokyo",
         "state": "",
-        "country": "GB",
+        "country": "JP",
         "coord": {
-            "lon": -0.89459,
-            "lat": 54.555431
+            "lon": 139.691711,
+            "lat": 35.689499
+        }
+    },
+    {
+        "id": 2950159,
+        "name": "Berlin",
+        "state": "",
+        "country": "DE",
+        "coord": {
+            "lon": 13.41053,
+            "lat": 52.524368
+        }
+    },
+    {
+        "id": 2988507,
+        "name": "Paris",
+        "state": "",
+        "country": "FR",
+        "coord": {
+            "lon": 2.3486,
+            "lat": 48.853401
+        }
+    },
+    {
+        "id": 3435910,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.377232,
+            "lat": -34.613152
+        }
+    },
+    {
+        "id": 2147714,
+        "name": "Sydney",
+        "state": "",
+        "country": "AU",
+        "coord": {
+            "lon": 151.207321,
+            "lat": -33.867851
+        }
+    },
+    {
+        "id": 3448439,
+        "name": "São Paulo",
+        "state": "",
+        "country": "BR",
+        "coord": {
+            "lon": -46.636108,
+            "lat": -23.547501
+        }
+    },
+    {
+        "id": 1816670,
+        "name": "Beijing",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 116.397232,
+            "lat": 39.907501
+        }
+    },
+    {
+        "id": 524901,
+        "name": "Moscow",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 37.615555,
+            "lat": 55.75222
+        }
+    },
+    {
+        "id": 360630,
+        "name": "Cairo",
+        "state": "",
+        "country": "EG",
+        "coord": {
+            "lon": 31.24967,
+            "lat": 30.06263
+        }
+    },
+    {
+        "id": 3530597,
+        "name": "Mexico City",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -99.127663,
+            "lat": 19.428471
+        }
+    },
+    {
+        "id": 292223,
+        "name": "Dubai",
+        "state": "",
+        "country": "AE",
+        "coord": {
+            "lon": 55.304722,
+            "lat": 25.258169
+        }
+    },
+    {
+        "id": 1796236,
+        "name": "Shanghai",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 121.458061,
+            "lat": 31.222219
+        }
+    },
+    {
+        "id": 1275339,
+        "name": "Mumbai",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 72.847939,
+            "lat": 19.01441
+        }
+    },
+    {
+        "id": 1273294,
+        "name": "Delhi",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.23114,
+            "lat": 28.65195
+        }
+    },
+    {
+        "id": 1174872,
+        "name": "Karachi",
+        "state": "",
+        "country": "PK",
+        "coord": {
+            "lon": 67.082199,
+            "lat": 24.9056
+        }
+    },
+    {
+        "id": 1609350,
+        "name": "Bangkok",
+        "state": "",
+        "country": "TH",
+        "coord": {
+            "lon": 100.501442,
+            "lat": 13.75398
+        }
+    },
+    {
+        "id": 1880252,
+        "name": "Singapore",
+        "state": "",
+        "country": "SG",
+        "coord": {
+            "lon": 103.850067,
+            "lat": 1.28967
+        }
+    },
+    {
+        "id": 1642911,
+        "name": "Jakarta",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 106.845139,
+            "lat": -6.21462
+        }
+    },
+    {
+        "id": 1835848,
+        "name": "Seoul",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 126.978416,
+            "lat": 37.56638
+        }
+    },
+    {
+        "id": 3451190,
+        "name": "Rio de Janeiro",
+        "state": "",
+        "country": "BR",
+        "coord": {
+            "lon": -43.182232,
+            "lat": -22.902781
+        }
+    },
+    {
+        "id": 3432043,
+        "name": "Montevideo",
+        "state": "",
+        "country": "UY",
+        "coord": {
+            "lon": -56.167351,
+            "lat": -34.833462
+        }
+    },
+    {
+        "id": 3871336,
+        "name": "Santiago",
+        "state": "",
+        "country": "CL",
+        "coord": {
+            "lon": -70.64827,
+            "lat": -33.45694
+        }
+    },
+    {
+        "id": 3936456,
+        "name": "Lima",
+        "state": "",
+        "country": "PE",
+        "coord": {
+            "lon": -77.028236,
+            "lat": -12.04318
+        }
+    },
+    {
+        "id": 3688689,
+        "name": "Bogotá",
+        "state": "",
+        "country": "CO",
+        "coord": {
+            "lon": -74.081749,
+            "lat": 4.60971
+        }
+    },
+    {
+        "id": 3430863,
+        "name": "Mar del Plata",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -57.557541,
+            "lat": -38.002281
+        }
+    },
+    {
+        "id": 3441575,
+        "name": "Monterrey",
+        "state": "",
+        "country": "MX",
+        "coord": {
+            "lon": -100.318474,
+            "lat": 25.67507
+        }
+    },
+    {
+        "id": 3469058,
+        "name": "Brasília",
+        "state": "",
+        "country": "BR",
+        "coord": {
+            "lon": -47.929722,
+            "lat": -15.77972
+        }
+    },
+    {
+        "id": 1853909,
+        "name": "Osaka",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 135.502182,
+            "lat": 34.693741
+        }
+    },
+    {
+        "id": 1792947,
+        "name": "Tianjin",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 117.176666,
+            "lat": 39.14222
+        }
+    },
+    {
+        "id": 1795565,
+        "name": "Shenzhen",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 114.068298,
+            "lat": 22.54554
+        }
+    },
+    {
+        "id": 1795563,
+        "name": "Shenyang",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 123.432777,
+            "lat": 41.792221
+        }
+    },
+    {
+        "id": 1791247,
+        "name": "Wuhan",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 114.273399,
+            "lat": 30.58333
+        }
+    },
+    {
+        "id": 1790630,
+        "name": "Xi'an",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 108.928612,
+            "lat": 34.258331
+        }
+    },
+    {
+        "id": 1790923,
+        "name": "Suzhou",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 120.595833,
+            "lat": 31.304171
+        }
+    },
+    {
+        "id": 1799397,
+        "name": "Hangzhou",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 120.15506,
+            "lat": 30.29365
+        }
+    },
+    {
+        "id": 1793724,
+        "name": "Qingdao",
+        "state": "",
+        "country": "CN",
+        "coord": {
+            "lon": 120.36972,
+            "lat": 36.09861
         }
     }
 ]
